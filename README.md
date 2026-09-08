@@ -10,6 +10,20 @@
 - **新技术学习能力强**：从 Android 到华为云 IoT 到 Agent 插件开发，技术栈都是边学边做出完整交付物
 - **重度 Agent 实践者**：长期深度使用各类 AI Agent 编程工具（DSH 等），积累了大量上下文管理、Prompt 工程与成本控制的实战经验——知道 Agent 的能力边界在哪，也知道怎么把边界推远
 
+## 🤖 AI 辅助开发工作流
+
+熟练使用 **Cursor / Claude Code / WorkBuddy / Codex** 等编码智能体，覆盖代码生成、代码审查、单元测试、文档生成场景。
+
+**我的「AI 生成 + 人工把关」工作流：**
+
+```text
+1. AI 起稿     Agent 生成 CRUD 模板、SQL、接口文档初稿
+2. 人工审查     审代码漏洞、并发与权限风险，重构不合理逻辑
+3. AI 辅助验证  借助 Agent 编写单元测试、排查报错
+```
+
+> 原则：**重复劳动交给 AI，核心业务和分布式逻辑自己手写校验**——兼顾开发效率与代码质量。
+
 ## 🔥 代表项目
 
 ### [dsh-plugin-gather](https://github.com/lilwhich/dsh-plugin-gather) — AI Agent 工作台增强插件包
@@ -55,6 +69,7 @@
 后端        Node.js · REST API · 轮询 / 实时数据同步
 云与 IoT    华为云 IoTDA · IAM 鉴权 · MQTT 概念 / 命令下发
 AI 工程     通义千问 API · Agent 工具编排 · 上下文管理 / 压缩 · Prompt 设计
+AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 前端        原生 DOM · 组件化 UI · Git Diff 可视化
 工具链      Git · 语义化版本发布 · npm 生态 · PowerShell 自动化
 ```
