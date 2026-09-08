@@ -81,8 +81,8 @@ AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 
 ## 📬 联系我
 
-- 📧 邮箱：【你的求职邮箱】
-- 💬 微信：【可选：你的微信号】
+- 📧 3077271883@qq.com · lilwhich122@gmail.com
+- 💬 微信：lilwhich
 
 ---
 
