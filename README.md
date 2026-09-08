@@ -76,6 +76,7 @@ AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 ## 🌱 我在关注的方向
 
 - **Agent 前沿动态**：MCP / Function Calling 生态、多 Agent 协作、技能沉淀（skill extraction）、Computer Use
+- **Agent × 产业融合**：关注 AI Agent 生态如何赋能不同产业——把 Agent 能力嵌入具体行业场景，做真实业务的效率放大器
 - **AI 应用成本控制**：token 预算、模型分级调度、长上下文压缩
 - **LLM + 开发者工具**：让 AI 编程助手更可控、更透明
 
