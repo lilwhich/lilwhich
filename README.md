@@ -86,7 +86,5 @@ AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 
 ---
 
-<!-- 把【】里的内容替换成你的真实信息即可 -->
-
 ![](https://github-readme-stats.vercel.app/api?username=lilwhich&show_icons=true&theme=default&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilwhich&layout=compact&show_icons=true&theme=default&hide_border=true)
