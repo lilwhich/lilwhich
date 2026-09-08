@@ -28,7 +28,7 @@
 
 ### [dsh-plugin-gather](https://github.com/lilwhich/dsh-plugin-gather) — AI Agent 工作台增强插件包
 
-给 DeepSeek Harness（DSH，一个 AI 编程 Agent 运行时）做的增强插件，从零独立设计开发，已发布 30 个版本迭代，在社交平台推广后有真实用户使用。
+给 DeepSeek Harness（DSH，一个 AI 编程 Agent 运行时）做的增强插件——在长期使用 DSH、**紧跟版本发布上手实操**的过程中发现真实痛点，从零独立设计开发，已发布 30 个版本迭代，在社交平台推广后有真实用户使用。
 
 **我在这项目里做了什么：**
 
