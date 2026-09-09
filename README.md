@@ -42,6 +42,8 @@
 
 **这个项目说明我能做的事：** 理解一个 Agent 运行时的架构 → 找到真实痛点 → 独立交付完整功能（前后端 + 算法 + 工程化），而不是停留在 prompt 调优层面。
 
+**顺手搭的小东西**：给这个仓库加了 AI Issue 自动分诊工作流（GitHub Actions + 大模型）——新 issue 一来就自动摘要、分类打标签、生成回复草稿，省掉手动分类的功夫；大模型调用失败会自动降级成关键词分类，不至于整条流程断掉。
+
 ### SmartPet 智能宠物管家 — 华为 IoT 比赛项目 · 独立开发的安卓 App
 
 从零独立开发的 Android 智能宠物管理应用，参加华为 IoT 比赛。宠物喂养数据上报华为云，App 侧远程控制喂食器/灯光/门锁/报警器，实现「端 - 云」联动的智能喂养。
@@ -70,7 +72,7 @@
 AI 工程     Agent 工具编排 · 上下文管理 / 压缩
 AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 前端        原生 DOM · 组件化 UI · Git Diff 可视化
-工具链      Git · 语义化版本发布 · npm 生态 · PowerShell 自动化
+工具链      Git · GitHub Actions（CI 自动化） · 语义化版本发布 · PowerShell 自动化
 ```
 
 ## 🌱 我在关注的方向
