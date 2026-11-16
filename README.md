@@ -85,11 +85,13 @@
 ```text
 语言        Kotlin · JavaScript / TypeScript · Python
 移动端      Android · Jetpack Compose · MVVM · OkHttp · 协程
-后端        Node.js · REST API · 轮询 / 实时数据同步
+后端服务    Node.js · FastAPI · REST API · SQLite · 轮询 / 实时数据同步
 云与 IoT    华为云 IoTDA · IAM 鉴权 · 设备命令下发
 AI 工程     Agent 工具编排 · 上下文管理 / 压缩
 AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
+计算机视觉  OpenCV · YuNet / SFace · SIFT / RANSAC · 柱面投影
 前端        原生 DOM · 组件化 UI · Git Diff 可视化
+分布式      UDP 广播服务发现 · 事件幂等 · 断网补传
 工具链      Git · GitHub Actions（CI 自动化） · 语义化版本发布 · PowerShell 自动化
 ```
 
