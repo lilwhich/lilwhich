@@ -90,6 +90,7 @@
 AI 工程     Agent 工具编排 · 上下文管理 / 压缩
 AI 编码工具  Cursor · Claude Code · WorkBuddy · Codex · DSH
 计算机视觉  OpenCV · YuNet / SFace · SIFT / RANSAC · 柱面投影
+行为识别    YOLOv8-Pose · ultralytics · 时序特征 · 滑窗分类
 前端        原生 DOM · 组件化 UI · Git Diff 可视化
 分布式      UDP 广播服务发现 · 事件幂等 · 断网补传
 工具链      Git · GitHub Actions（CI 自动化） · 语义化版本发布 · PowerShell 自动化
